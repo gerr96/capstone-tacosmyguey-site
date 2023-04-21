@@ -23,7 +23,13 @@ nav {
     padding: 0 2rem;
 
 }
-
+.Thanks {
+    font-size: 50;
+    font-weight: bold;
+    padding: 0 2rem;
+    align-items: center;
+    display: flex;
+}
 
 nav a {
     text-decoration: none;
